@@ -98,14 +98,6 @@ Quotable API
 
 ---
 
-📦 Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/jessica-ai.git
-
----
-
 Install dependencies:
 
 pip install -r requirements.txt
@@ -117,7 +109,10 @@ Add your API keys inside the script or create a .env file.
 ---
 
 ▶️ Run The Assistant
+
 python jessica_ai.py
+
+---
 
 📁 Project Structure
 jessica-ai/
