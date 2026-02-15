@@ -16,6 +16,8 @@ API Integration
 
 Real-Time Voice Processing
 
+
+
 🎯 What Jessica Can Do
 
 Jessica listens, understands, and executes commands instantly.
@@ -56,9 +58,13 @@ Jessica listens, understands, and executes commands instantly.
 
 🎬 Play YouTube videos
 
+
+
 🛠️ Built With
 
 Language: Python 3.x
+
+
 
 Major Libraries:
 
@@ -88,6 +94,8 @@ NewsAPI
 
 Quotable API
 
+
+
 📦 Installation
 
 Clone the repository:
@@ -102,6 +110,8 @@ pip install -r requirements.txt
 
 Add your API keys inside the script or create a .env file.
 
+
+
 ▶️ Run The Assistant
 python jessica_ai.py
 
@@ -114,6 +124,8 @@ jessica-ai/
 ├── screenshots/
 └── README.md
 
+
+
 🚀 Future Scope
 
 Wake word support (“Hey Jessica”)
@@ -123,6 +135,7 @@ GUI version
 GPT-based chatbot integration
 
 IoT/Home automation support
+
 
 👩‍💻 Developer
 
